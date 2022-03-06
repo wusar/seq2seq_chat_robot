@@ -1,0 +1,2 @@
+# seq2seq_chat_robot
+一个基于seq2seq算法的聊天机器人
